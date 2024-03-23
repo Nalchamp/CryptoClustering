@@ -16,6 +16,7 @@ The Crypto Clustering project aims to predict if cryptocurrencies are affected b
 # Results
 
 Eblow curve for original data
+
 <img width="672" alt="Screenshot 2024-03-23 at 7 08 08 PM" src="https://github.com/Nalchamp/CryptoClustering/assets/145158606/cd1006ab-95b0-42e6-900e-9aae7156b6c6">
 
 Elbow curve for PCA data

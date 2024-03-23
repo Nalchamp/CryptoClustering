@@ -32,9 +32,9 @@ Scatter plot of cryptocurrency clusters based on the PCA data.
 <img width="660" alt="Screenshot 2024-03-23 at 7 13 13 PM" src="https://github.com/Nalchamp/CryptoClustering/assets/145158606/19f94491-89a8-4884-954e-994b7ac2ca0f">
 
 # Dependencies
-  Python
-  Panda
-  hvPlot
-  scikit-learn
+  - Python
+  - Panda
+  - hvPlot
+  - scikit-learn
 
 
